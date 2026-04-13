@@ -1,5 +1,5 @@
 -r base.txt
-pytest==3.2.2
+pytest==9.0.3
 pytest-flask==0.10.0
 pytest-mock==1.6.3
 mock==3.0.5
